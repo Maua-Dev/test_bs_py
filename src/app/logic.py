@@ -12,6 +12,7 @@
 # para trás (ela morreria na hora). Os TODOs marcam os próximos passos.
 # Documentação: https://docs.battlesnake.com
 
+#43
 import random
 import logging
 from .models import GameState, MoveResponse
